@@ -1,3 +1,5 @@
 Name: Jaisy Sunil
 Email: jaisybtech@gmail.com
 college: COCHIN UNIVERSITY OF SCIENCE AND TECHNOLOGY
+Branch: Electronics and Communication
+LinkedIn: https://www.linkedin.com/feed/
